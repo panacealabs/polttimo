@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noUnusedParameters": false,
+    "lib": [
+      "es2017", "dom"
+    ],
+    "outDir": "dist",
+    "declaration": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
