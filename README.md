@@ -4,7 +4,7 @@ Circle CI build breaks -> Ikea Trådfri lightbulb turns red.
 
 ## Running the app
 
-1. [Download a release](...).
+1. [Download a release](https://github.com/panacealabs/polttimo/releases).
 1. Create a CircleCI token if you don't already have one
 1. Find the secret on the bottom of the Ikea hub
 1. Decide which CircleCI project and workflows to watch. If any of these workflows fail under the `master` branch, the light turns red
